@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @angelcarneros
-- 👀 I’m interested in videogames trainers & bugs/glitches
-- 🌱 I’m currently learning C# and Python
-- 📫 Contact me on Discord: Bolt_2#2655
